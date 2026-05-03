@@ -17,4 +17,3 @@ def test_mixed_case():
     assert count_vowels("ЭТО ТЕСТ") == 3
     assert count_vowels("aEiOu АЕИОУ") == 5
 
-    
